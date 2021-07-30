@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignment 1</title>
+    <style>
+        table{
+        border: 2px solid black;
+        }
+        th{
+        border: 2px solid black;
+        }
+        td{
+        border: 2px solid black;
+        }
+        img{
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Table</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Profil pic</th>
+        </tr>
+        <tr>
+            <td>Aisha</td>
+            <td>Aishasharma23@gmail.com</td>
+            <td><img src="./img/p1.jpg" alt="pic"></td>
+        </tr>
+        <tr>
+            <td>Sumer</td>
+            <td>Sumerkapur156@gmail.com</td>
+            <td><img src="./Img/p2.jpg" alt="pic"></td>
+        </tr>
+        <tr>
+            <td>Tani</td>
+            <td>Tanisigh899@gmail.com</td>
+            <td><img src="./Img/p3.jpg" alt="pic"></td>
+        </tr>
+    </table>
+</body>
+</html>
